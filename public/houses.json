@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "addreess":"17 Ozumba Mbadiwe layout Lekki",
+        "country":"Nigeria",
+        "description":"A superb detached Victorian property",
+        "price":90000,
+        "photo":"268667"
+    },
+
+    {
+        "id": 2,
+        "addreess":"36Abiodun Street",
+        "country":"Nigeria",
+        "description":"A superb location you can trust",
+        "price":67500,
+        "photo":"277667"
+    },  
+    {
+        "id": 3,
+        "addreess":"165 Kwame Nkrumeh Avenue",
+        "country":"Ghana",
+        "description":"A simple home away from home",
+        "price":72000,
+        "photo":"377667"
+    },  
+    {
+        "id": 4,
+        "addreess":"400 Agege motor road Mushin",
+        "country":"Nigeria",
+        "description":"A sperb detached Victorian property",
+        "price":16000,
+        "photo":"288667"
+    }
+]
